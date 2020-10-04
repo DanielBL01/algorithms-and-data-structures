@@ -1,12 +1,12 @@
 # Algorithms and Data Structures
 
-This repository is for learning purposes where I implement various algorithms and data structures
-
 ## Goal
 
-I want to build a large repository full of implements of algorithm and data structure. I'll also post solutions to common problems for my own reference but feel free to look at any of them to learn. These questions will most likely come from Leetcode, Cracking the Coding Interview and Elements of Programming Interviews :)
+This repository is for learning purposes. I want to build a large repository full of implementations of algorithms and data structures. I'll also post solutions to common problems for my own reference but feel free to look at any of them to learn. These questions will most likely come from Leetcode, Cracking the Coding Interview and Elements of Programming Interviews. The goal is to push at least one solution/implementation a week to keep my CS fundamentals fresh :)
 
-## What programming language should I use?
+## Common Questions (all of this is my opinion)
+
+### What programming language?
 
 I don't always agree with "Just pick a programming language that you're most familiar with". I think for the most part, 
 it's about using a general-purpose programming language that most people (aka your interviewer) will know and understand.
